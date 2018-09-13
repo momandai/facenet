@@ -1,0 +1,5 @@
+ssh -YC -L 16006:127.0.0.1:6006 whale@192.168.2.191
+
+
+训练9小时 softmax  准确率达到0.9895 lr出现NoneType错误 应该用python2.7？？？
+triplelet loss 达不到那么高
